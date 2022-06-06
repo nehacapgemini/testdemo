@@ -1,2 +1,9 @@
 test demo
 include
+create branch with bash
+multiple branch
+check on dashboard
+switch branch
+check status
+pull file 
+
