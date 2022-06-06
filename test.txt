@@ -6,4 +6,4 @@ check on dashboard
 switch branch
 check status
 pull file 
-
+added on 06 june
