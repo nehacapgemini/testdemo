@@ -1,12 +1,11 @@
-test demo
-include
+test demo - repo
+include, then add, commit , git push
 create branch with bash
-multiple branch
 check on dashboard
 switch branch
-check status
+check status always after switching any branch
 pull file 
 added on 06 june
 
-23.24
+
 
